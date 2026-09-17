@@ -29,4 +29,4 @@ InternTrack is a full-stack internship application tracking web application buil
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Rinat300706/InternTrack.git
